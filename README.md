@@ -1,5 +1,3 @@
-# Project Name
-
 This project is a Django-based web application designed to manage listings, users, categories, and locations.
 
 ## Table of Contents
