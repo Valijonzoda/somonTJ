@@ -4,10 +4,6 @@ This project is a Django-based web application designed to manage listings, user
 
 - [Installation](#installation)
 - [Configuration](#configuration)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
