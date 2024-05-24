@@ -16,3 +16,4 @@ venv/
 *.csv
 
 .python-version
+env/
