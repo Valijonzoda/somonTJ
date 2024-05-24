@@ -13,7 +13,7 @@ This project is a Django-based web application designed to manage listings, user
 
 1. Clone the repository:
     ```bash
-    https://github.com/Valijonzoda/somonTJ.git
+    git clone https://github.com/Valijonzoda/somonTJ.git
     cd somonTJ
     ```
 
